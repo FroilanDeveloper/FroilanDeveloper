@@ -5,7 +5,7 @@ My personal repository
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsukuyomi-808" alt="tsukuyomi-808" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=froilandeveloper" alt="froilandeveloper" /></a> </p>
 
 - 🌱 I'm currently working on my projects 
 
