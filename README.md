@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Recipe App<br>I would love to collaborate, email me at froilanabellanosa.developer@gmail.com<br>Fun fact I love to play basketball, going to the beach, and hiking here at the beautiful paradise of Oahu, Hawaii<br>
+I'm currently working on my Mern User Authentication<br>I would love to collaborate, email me at froilanabellanosa.developer@gmail.com<br>Fun fact I love to play basketball, going to the beach, and hiking here at the beautiful paradise of Oahu, Hawaii<br>
 
 
 ## 🌐 Socials:
